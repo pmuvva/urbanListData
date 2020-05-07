@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrbanList</string>
+    
+    <string-array name="Thumbs">
+        <item>ThumbsUp</item>
+        <item>ThumbsDn</item>
+    </string-array>
+</resources>
